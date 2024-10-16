@@ -1,13 +1,13 @@
 body
 {
     background-color:  lightblue;
-    color: slategray;
     font-weight: bold;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 
 h1
 {
     font-size: 36px;
+    color:darkslateblue;
     text-align: center;
     margin-bottom: 20px;
    
@@ -15,6 +15,7 @@ h1
 h2
 {
     text-align: center;
+    color:slategray;
 }
 
 .image-container {
