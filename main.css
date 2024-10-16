@@ -1,7 +1,7 @@
 body
 {
-    background-color: antiquewhite;
-    color:slategray;
+    background-color:  lightblue;
+    color: slategray;
     font-weight: bold;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
@@ -9,6 +9,18 @@ body
 h1
 {
     font-size: 36px;
+    text-align: center;
    
+}
+h2
+{
+    text-align: center;
+}
+
+.banner
+{
+
+    justify-contetnt: space-between;
+    filter: alpha(opacity=90);
 }
 
