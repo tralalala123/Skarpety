@@ -9,6 +9,7 @@ h1
 {
     font-size: 36px;
     text-align: center;
+    margin-bottom: 20px;
    
 }
 h2
@@ -54,3 +55,9 @@ img
     justify-content: center;
 
   }
+
+p1{
+  size: 100px;
+  margin-bottom: 20px;
+  text-align: center;
+}
