@@ -20,7 +20,7 @@ h2
 
   display: flex;
   justify-content: center;
-  width: 1000px;
+
 
 }
 
@@ -46,4 +46,12 @@ img
   
   .red-box a:hover {
     opacity: .8;
+  }
+
+
+  .image-container1 {
+
+    display: flex;
+  justify-content: center;
+
   }
