@@ -19,7 +19,8 @@ h2
 .image-container {
 
   display: flex;
-  justify-content: center;
+  justify-content: space-between;
+
 
 }
 
