@@ -20,8 +20,7 @@ h2
 img
 {
 
-    justify-content: space-between;
-    filter: alpha(opacity=50);
+    justify-content: center;
   
 }
 
