@@ -20,7 +20,7 @@ h2
 .banner
 {
 
-    justify-contetnt: space-between;
+    justify-contetnt: center;
     filter: alpha(opacity=50);
   
 }
