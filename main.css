@@ -10,12 +10,16 @@ h1{
     color:darkslateblue;
     text-align: center;
     margin-bottom: 20px;
+    
    
 }
 h2
 {
     text-align: center;
     color:slategray;
+    animation: 2s lineup ease-out infinite;
+}
+
 }
 
 .image-container {
@@ -68,16 +72,50 @@ img
     padding: 0;
 }
 
-  .image-container1 img {
+    .image-container1 img {
 
-    border:1px solid #000;
-    
-  }
+  border:3px solid #000;
+  transition-duration: 1s;
+  
+}
+    .image-container1 img:hover {
+
+        transform: scale(1.1);
+
+
+    }
+
+
 
 
 p{
-  size: 300px;
   margin-bottom: 40px;
   text-align: center;
+    text-transform: uppercase;
+  background-image: linear-gradient(
+    -225deg,
+    #231557 0%,
+    #004ddd 29%,
+    #00a0fd 67%,
+    #ffffff 100%
+  );
+  background-size: auto auto;
+  background-clip: border-box;
+  background-size: 200% auto;
+  color: #fff;
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: 2s linear infinite;
+  display: inline-block;
+      font-size: 80px;
 }
-  
+
+    .image-container2 {
+
+    display: flex;
+    justify-content: center;
+
+  }
+
+
