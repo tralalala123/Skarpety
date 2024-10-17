@@ -68,23 +68,6 @@ img
     padding: 0;
 border:1px solid #000;
 
-  }
-
-  .image-container1 img {
-
-    display: flex;
-    transition-duration: 3s;
-
-  }
-
-  .image-container1 img:hover {
-
-    transform: scale(1.2);
-    -webkit-transform: scale(1.2);
-    -moz-transform: scale(1.2);
-    z-index: 0;
-
-  }
 
 p{
   size: 300px;
